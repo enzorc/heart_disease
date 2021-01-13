@@ -1,0 +1,9 @@
+
+- Le fichier R permet d'obtenir la base de données utilisée dans le fichier Rmarkdown, aucun besoin d'enregistrer les bases sur son ordinateur au préalable. Le script du code se charge de récupérer les données directement sur internet puis les traitent et les enregistrent sous le nom indiqué à la fin du code.
+
+- La base de données obtenue est tout de même placée dans un drive en ligne à cette adresse :
+https://drive.google.com/open?id=1vN78wF4pIlUrzw6ZaW7Ailz1kbEHeFME
+
+
+- Les bases de données brutes utilisées dans le script R, pour constituer la base finale ce trouve à cette adresse :
+https://archive.ics.uci.edu/ml/datasets/Heart+Disease
